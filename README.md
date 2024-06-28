@@ -16,12 +16,6 @@ https://github.com/namartinxs/carrinho-de-compras/assets/133926013/101db1d5-3fcd
 
 
 
-
-
-## :chains: Acesse o projeto  
-
-
-
 ## :wrench:Tecnologias utilizadas
 
 - ``HTML``
