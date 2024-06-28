@@ -1,4 +1,4 @@
-<h1 align="center"> Aluguel de boardgames  </h1>
+<h1 align="center"> Carrinho de Compras </h1>
 
 <p>Terceiro projeto do terceiro curso de lógica do Geração Caldeira 2024.Neste projeto desenvolvemos um carrinho de compras em JavaScript, que permite aos usuários adicionar produtos, calcular o total das compras e limpar o carrinho.</p>
 
